@@ -1,7 +1,6 @@
 # Crop Prediction System
 
 
-
 Welcome to the Crop Prediction System repository! This project is designed to help users make informed decisions about crop selection by providing crop recommendations based on various factors. The system uses a Random Forest classifier for prediction and features a user-friendly web interface developed with Flask, HTML, and CSS.
 
 ## Table of Contents
@@ -25,11 +24,13 @@ Before you begin, ensure you have met the following requirements:
 
 ```bash
 pip install -r requirements.txt
-
-## Installation
-
+```
+### Installation
 1. Clone this repository:
-
 ```bash
 git clone https://github.com/your-username/crop-prediction-system.git
-
+```
+2. Change to the project directory:
+```bash
+cd crop-prediction-system
+```
