@@ -9,9 +9,6 @@ Welcome to the Crop Prediction System repository! This project is designed to he
   - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
